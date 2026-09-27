@@ -19,11 +19,11 @@ https://github.com/bintJumuah/Ecommerce-sales-dataset/blob/main/08%20E-Commerce%
 
 Dashboard Interactive https://github.com/bintJumuah/Ecommerce-sales-dataset/blob/main/08%20E-Commerce%20Orders.xlsx
 
-## process
+## Process
 * Clean data for missing values and additions colomn.
 * make sure data is consistent and clean.
 * create Pivot table according to the question asked.
 * Merge all Pivot Tables into on dashboard and apply slicer and KPI to make dynamic.
 
 ## Dashboard
-
+https://github.com/bintJumuah/Ecommerce-sales-dataset/blob/main/WhatsApp%20Image%202026-09-26%20at%201.56.11%20AM.jpeg
